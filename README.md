@@ -149,6 +149,13 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+## Airbnb project update
+** web_dynamic **
+- contributer : aimad Kacem
+1- prepare web dynamic files
+2- Select some Amenities to be comfortable!
+3- check Api status
+4- load places from API
 
 ## Bugs
 No known bugs at this time. 
